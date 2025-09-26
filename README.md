@@ -1,6 +1,6 @@
 # People_Entry_Exit-Counter_using_YOLO_and_OpenCV
 
-Tis project is a real-time **people entry and exit counting system** built with **Python, YOLOv5, and OpenCV**.  
+This project is a real-time **people entry and exit counting system** built with **Python, YOLOv5, and OpenCV**.  
 It detects people in a video feed, tracks their movement, and automatically counts how many people **enter** and **exit** a defined area by crossing virtual lines.
 
 ✅ Ideal for:
